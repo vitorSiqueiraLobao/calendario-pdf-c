@@ -1,3 +1,6 @@
+//copyright © 2019 all rights reserved - Vitor Siqueira Lobao UNIFEI-2018004809
+
+
 #include "pdfgen.h"
 #include "print.h"
 #include "calendario.h"
